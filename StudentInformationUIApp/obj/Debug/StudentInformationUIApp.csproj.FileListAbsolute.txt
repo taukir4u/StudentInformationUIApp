@@ -1,0 +1,9 @@
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\bin\Debug\StudentInformationUIApp.exe.config
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\bin\Debug\StudentInformationUIApp.exe
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\bin\Debug\StudentInformationUIApp.pdb
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\obj\Debug\StudentInformationUIApp.csprojResolveAssemblyReference.cache
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\obj\Debug\StudentInformationUIApp.StudentInformationUI.resources
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\obj\Debug\StudentInformationUIApp.Properties.Resources.resources
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\obj\Debug\StudentInformationUIApp.csproj.GenerateResource.Cache
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\obj\Debug\StudentInformationUIApp.exe
+H:\Taukir\StudentInformationUIApp\StudentInformationUIApp\obj\Debug\StudentInformationUIApp.pdb
